@@ -1,0 +1,28 @@
+
+#slider{
+height:400px;
+width:600px;
+overflow:hidden;
+margin:30px auto;
+}
+#slider>img{
+width:600px;
+height:400px;
+float:left;
+display:none;
+}
+a{
+padding:5px 10px;
+background:#fofofo;
+margin-top:100px;
+text-decoration:none;
+color:#666;
+}
+a.left{
+float:left;
+font-height:200px;
+}
+a.right{
+float:right;
+font-size:180px;
+}
